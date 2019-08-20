@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Genesis",
+    "holenumber": 1,
+    "par": 4,
+    "championshipTees": 427,
+    "middleTees": 401,
+    "frontTees": 367,
+    "handicap": 13
+  },
+  {
+    "id": 2,
+    "name": "The Stone",
+    "holenumber": 2,
+    "par": 3,
+    "championshipTees": 227,
+    "middleTees": 197,
+    "frontTees": 157,
+    "handicap": 5
+  },
+  {
+    "id": 3,
+    "name": "Major Third",
+    "holenumber": 3,
+    "par": 4,
+    "championshipTees": 486,
+    "middleTees": 440,
+    "frontTees": 389,
+    "handicap": 3
+  },
+  {
+    "id": 4,
+    "name": "Quadro",
+    "holenumber": 4,
+    "par": 4,
+    "championshipTees": 437,
+    "middleTees": 375,
+    "frontTees": 339,
+    "handicap": 15
+  },
+  {
+    "id": 5,
+    "name": "Ice Cream",
+    "holenumber": 5,
+    "par": 4,
+    "championshipTees": 342,
+    "middleTees": 310,
+    "frontTees": 289,
+    "handicap": 17
+  },
+  {
+    "id": 6,
+    "name": "The Trail",
+    "holenumber": 6,
+    "par": 4,
+    "championshipTees": 451,
+    "middleTees": 430,
+    "frontTees": 399,
+    "handicap": 1
+  },
+  {
+    "id": 7,
+    "name": "What!",
+    "holenumber": 7,
+    "par": 3,
+    "championshipTees": 161,
+    "middleTees": 140,
+    "frontTees": 109,
+    "handicap": 7
+  },
+  {
+    "id": 8,
+    "name": "The Hump",
+    "holenumber": 8,
+    "par": 4,
+    "championshipTees": 417,
+    "middleTees": 375,
+    "frontTees": 349,
+    "handicap": 9
+  },
+  {
+    "id": 9,
+    "name": "Time",
+    "holenumber": 9,
+    "par": 5,
+    "championshipTees": 535,
+    "middleTees": 505,
+    "frontTees": 488,
+    "handicap": 11
+  },
+  {
+    "id": 10,
+    "name": "The Canyon",
+    "holenumber": 10,
+    "par": 4,
+    "championshipTees": 432,
+    "middleTees": 410,
+    "frontTees": 370,
+    "handicap": 6
+  },
+  {
+    "id": 11,
+    "name": "The Top",
+    "holenumber": 11,
+    "par": 3,
+    "championshipTees": 188,
+    "middleTees": 167,
+    "frontTees": 124,
+    "handicap": 16
+  },
+  {
+    "id": 12,
+    "name": "Woods",
+    "holenumber": 12,
+    "par": 4,
+    "championshipTees": 409,
+    "middleTees": 393,
+    "frontTees": 350,
+    "handicap": 18
+  },
+  {
+    "id": 13,
+    "name": "Jones",
+    "holenumber": 13,
+    "par": 4,
+    "championshipTees": 470,
+    "middleTees": 410,
+    "frontTees": 366,
+    "handicap": 4
+  },
+  {
+    "id": 14,
+    "name": "Long Road",
+    "holenumber": 3,
+    "par": 14,
+    "championshipTees": 623,
+    "middleTees": 584,
+    "frontTees": 3525,
+    "handicap": 8
+  },
+  {
+    "id": 15,
+    "name": "X#O@?&",
+    "holenumber": 15,
+    "par": 4,
+    "championshipTees": 425,
+    "middleTees": 395,
+    "frontTees": 340,
+    "handicap": 12
+  },
+  {
+    "id": 16,
+    "name": "Tango",
+    "holenumber": 16,
+    "par": 3,
+    "championshipTees": 190,
+    "middleTees": 165,
+    "frontTees": 145,
+    "handicap": 10
+  },
+  {
+    "id": 17,
+    "name": "The Meadow",
+    "holenumber": 17,
+    "par": 4,
+    "championshipTees": 540,
+    "middleTees": 509,
+    "frontTees": 475,
+    "handicap": 14
+  },
+  {
+    "id": 18,
+    "name": "Crown",
+    "holenumber": 18,
+    "par": 4,
+    "championshipTees": 461,
+    "middleTees": 420,
+    "frontTees": 380,
+    "handicap": 2
+  } 
+]
